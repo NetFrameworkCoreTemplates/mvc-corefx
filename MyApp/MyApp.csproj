@@ -23,6 +23,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.*" />
 
     <PackageReference Include="ServiceStack.Core" Version="5.*" />
+
+    <PackageReference Include="BundlerMinifier.Core" Version="2.8.391" />
   </ItemGroup>
 
   <ItemGroup>
